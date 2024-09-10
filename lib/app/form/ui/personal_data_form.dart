@@ -177,8 +177,7 @@ class PersonalDataForm extends GetView<FormController> {
                   textController: controller.textEditingControllerCountry,
                   readOnly: true,
                   validation:
-                      RequiredValidator(errorText: 'Nomor Telpon Wajib isi')
-                          .call,
+                      RequiredValidator(errorText: 'Negara Wajib isi').call,
                   sufixIcon: IconButton(
                     onPressed: () => controller.onClickCountry(),
                     icon: const Icon(
