@@ -1,0 +1,1 @@
+ /Users/yogapramana/Documents/GitHub/moondoli_test/.dart_tool/flutter_build/a1acfc62a3e7500a6643ae882dd57868/native_assets.yaml: 
